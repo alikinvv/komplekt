@@ -1,1 +1,0 @@
-slider add fluid dots
